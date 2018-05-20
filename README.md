@@ -1,4 +1,4 @@
-# Mining-Configuration
+# Mining-Pools 
 Mining Pools for Bitmain Asic Miners / S9i, X3, T9, B3, L3, D3
 
 Pool Stats: http://miningpoolstats.stream
@@ -10,6 +10,9 @@ ANTMINER S9i/T9 BITCOIN POOLS:
 
 Bytecoin Pools:
 1.http://bytecoin-pool.org/t/en/
+Host: stratum+tcp://us.bytecoin-pool.org:3333
+User: YourWalletAddress
+Password: x
 2.https://bytecoin.uk/
 Coin:https://coinmarketcap.com/currencies/bytecoin-bcn/
 
@@ -23,3 +26,5 @@ https://github.com/electroneum/electroneum-pool
 
 Bytom Coin Pools: https://www.antpool.com/announcementDetail.htm?id=64
 1.Antpool - https://www.antpool.com/home.htm 
+
+Transcactions: https://chainradar.com
