@@ -5,18 +5,21 @@ Pool Stats: http://miningpoolstats.stream
 
 ANTMINER S9i/T9 BITCOIN POOLS:
 
-1.ANTPOOL - https://www.antpool.com/home.htm /
-2.F2POOL - https://www.f2pool.com/
+1.Antpool - https://www.antpool.com/home.htm 
+2.F2pool - https://www.f2pool.com/
 
-BYTECOIN POOLS:
+Bytecoin Pools:
 1.http://bytecoin-pool.org/t/en/
 2.https://bytecoin.uk/
 Coin:https://coinmarketcap.com/currencies/bytecoin-bcn/
 
-ELECTRONEUM POOLS:
+Electroneum Pools:
 1.https://etn.spacepools.org/
 2.https://etn.nanopool.org/api
 3.http://etn.fairhash.org/
 Coin:https:https://coinmarketcap.com/currencies/electroneum/
 https://electroneum.com/
 https://github.com/electroneum/electroneum-pool
+
+Bytom Coin Pools: https://www.antpool.com/announcementDetail.htm?id=64
+1.Antpool - https://www.antpool.com/home.htm 
